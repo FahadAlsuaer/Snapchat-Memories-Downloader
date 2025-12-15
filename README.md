@@ -25,12 +25,12 @@ This tool is designed for speed and data integrity. It solves the common problem
     * *Windows:* `winget install ffmpeg`
     * *Mac:* `brew install ffmpeg`
     * *Linux:* `sudo apt install ffmpeg`
-
+ 
 ## 📥 Installation
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/FahadAlsuayr/snapchat-memory-downloader.git](https://github.com/FahadAlsuayr/snapchat-memory-downloader.git)
+    git clone https://github.com/FahadAlsuayr/snapchat-memory-downloader.git
     cd snapchat-memory-downloader
     ```
 
